@@ -1,8 +1,9 @@
 package com.deploy.tugas6.controller;
 
 
+
+import com.deploy.tugas6.model.User;
 import jakarta.servlet.http.HttpSession;
-import org.apache.catalina.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
